@@ -13,9 +13,9 @@ The results of this analysis can be viewed below.
 ### Checkout Times
 _____
 
-<img width="1008" alt="3_checkout_times_for_all_users" src="https://user-images.githubusercontent.com/80941606/193758605-c0b5e304-0c4d-42c1-a5c0-aeea6b5c0dba.png">
+<img width="1008" alt="2_checkout_times_for_all_users" src="https://user-images.githubusercontent.com/80941606/193877076-69b43696-6e60-4c76-97a5-3a8e319908f3.png">
 
-<img width="1008" alt="4_checkout_times_by_gender" src="https://user-images.githubusercontent.com/80941606/193758673-c2da334a-106c-412d-9e0f-efe4dd50d7f0.png">
+<img width="1008" alt="3_checkout_times_by_gender" src="https://user-images.githubusercontent.com/80941606/193877103-b771d1a2-e576-44e8-b086-7f64aec04f36.png">
 
 **Figure 1**: This is the distribution of the number of bikes used in a period of time versus the duration of a ride.
 
@@ -26,7 +26,7 @@ As can be seen in the figure above, most riders use the bike-sharing service for
 ### Trips by Weekday per Hour
 _____
 
-<img width="578" alt="5_heatmap_by_minute_by_hr" src="https://user-images.githubusercontent.com/80941606/193758758-eb59324e-b162-47ba-9a37-74a027c69079.png">
+<img width="578" alt="4_heatmap_by_minute_by_hr" src="https://user-images.githubusercontent.com/80941606/193877165-bf833564-dce1-487d-93db-ebd9757f44b7.png">
 
 **Figure 2**: This heatmap showcases the density of rides by weekday per hour.
 
@@ -37,7 +37,7 @@ As can be seen in the figure above, the bike-sharing service's ridership is high
 ### Trips by Gender (by Weekday per Hour)
 _____
 
-<img width="1171" alt="6_heatmap_time_by_gender" src="https://user-images.githubusercontent.com/80941606/193758785-c0d1ca19-6272-4894-8fc6-f88d7ba16856.png">
+<img width="1171" alt="5_heatmap_time_by_gender" src="https://user-images.githubusercontent.com/80941606/193877734-07e6e2dd-649a-412e-be04-ad2bdbecd8cb.png">
 
 **Figure 3**: This heatmap showcases the density of rides by weekday per hour, categorized by gender.
 
@@ -48,7 +48,7 @@ As can be seen in the figure above, the bike-sharing service's ridership is high
 ### User Trips by Gender by Weekday
 _____
 
-<img width="1171" alt="6_heatmap_time_by_gender" src="https://user-images.githubusercontent.com/80941606/193761461-a481c415-57c7-486d-b4dc-74747c9009e5.png">
+<img width="1147" alt="6_heatmap_user_gender" src="https://user-images.githubusercontent.com/80941606/193877779-93979457-cd12-4a55-ac12-688191ee8537.png">
 
 **Figure 4**: This is the breakdown of the user trips throughout the week categorized by gender.
 
