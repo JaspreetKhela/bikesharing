@@ -17,18 +17,18 @@ _____
 
 <img width="1008" alt="3_checkout_times_by_gender" src="https://user-images.githubusercontent.com/80941606/193877103-b771d1a2-e576-44e8-b086-7f64aec04f36.png">
 
-**Figure 1**: This is the distribution of the number of bikes used in a period of time versus the duration of a ride.
+**Figure 1**: This is the distribution of the number of bikes used in a period of time versus the duration of a bike ride.
 
 _____
 
-As can be seen in the figure above, most riders use the bike-sharing service for less than one hour; this is mostly independent of one's gender. Moreover, most of the bikes are rented by men. Consequently, this graph informs us of an upper limit of how many bikes may be required to operate in Des Moines given that it has a smaller population and population density of that of New York City. Additionally, as seen in Figure 4, marketing efforts may be best targeted towards males since males use the bike-sharing services more than females do.
+As can be seen in the figure above, most bike riders use the bike-sharing service for less than one hour; this is mostly independent of one's gender. Moreover, most of the bikes are rented by men. Consequently, this graph informs us of an upper limit of how many bikes may be required to operate in Des Moines given that it has a smaller population and population density of that of New York City. Additionally, as seen in this Figure and Figure 4, marketing efforts may be best targeted towards males since males use the bike-sharing services more than females do.
 
 ### Trips by Weekday per Hour
 _____
 
 <img width="578" alt="4_heatmap_by_minute_by_hr" src="https://user-images.githubusercontent.com/80941606/193877165-bf833564-dce1-487d-93db-ebd9757f44b7.png">
 
-**Figure 2**: This heatmap showcases the density of rides by weekday per hour.
+**Figure 2**: This heatmap showcases the density of bike rides by weekday per hour.
 
 _____
 
@@ -39,7 +39,7 @@ _____
 
 <img width="1171" alt="5_heatmap_time_by_gender" src="https://user-images.githubusercontent.com/80941606/193877734-07e6e2dd-649a-412e-be04-ad2bdbecd8cb.png">
 
-**Figure 3**: This heatmap showcases the density of rides by weekday per hour, categorized by gender.
+**Figure 3**: This heatmap showcases the density of bike rides by weekday per hour, categorized by gender.
 
 _____
 
@@ -54,7 +54,7 @@ _____
 
 _____
 
-As can be seen in the figure above, ridership is highest amongst subscribing males mostly during the weekdays in New York City. This means that males in cities may be more likley to use the ride-sharing service as compared to females. Additionally, the ride-sharing service seems to be most popular amongst subscribers during the weekdays which may be a consequence of riders commuting to and from work. Consequently, the ride-sharing service's marketing efforts can be concentrated on selling their services to working-age males in densely populated areas of cities.
+As can be seen in the figure above, bike ridership is highest amongst subscribing males mostly during the weekdays in New York City. This means that males in cities may be more likley to use the ride-sharing service as compared to females. Additionally, the bike ride-sharing service seems to be most popular amongst subscribers during the weekdays which may be a consequence of riders commuting to and from work. Consequently, the ride-sharing service's marketing efforts can be concentrated on selling their services to working-age males in densely populated areas of cities.
 
 ### Rider Distribution
 _____
@@ -65,7 +65,7 @@ _____
 
 _____
 
-As can be seen in the figure above, most riders use the bike-sharing service within Manhattan. This means that resources are best allocated in that area of New York City. Consequently, Des Moines may have prospective riders concentrated within a particular area of the city.
+As can be seen in the figure above, most riders use the bike-sharing service within Manhattan. This means that resources are best allocated in that area of New York City. Consequently, Des Moines may have prospective riders concentrated within a particular area of the city; this is where the most bike-sharing resources can be allocated.
 
 
 ### Bike Repairs
@@ -81,7 +81,7 @@ As can be seen in the figure above, there is a gradual gradient of bikes requiri
 
 ## Summary
 ### Recommendation
-In summary, it seems that the prospective bike-sharing service in Des Moines would be best targeted towards working-age males in densely-populated cities, Additionally, since demand for the bike-sharing service is highest during rush hours (i.e. right before and after the work day), most bikes will need to be available for use around these time periods; this means that bikes can be serviced a few hours outside of normal business hours.
+In summary, it seems that the prospective bike-sharing service in Des Moines would be best targeted towards working-age males in densely-populated areas, Additionally, since demand for the bike-sharing service is highest during rush hours (i.e. right before and after the work day), most bikes will need to be available for use around these time periods; this means that bikes can be serviced a few hours outside of normal business hours.
 
 ### Additional Visualizations
 To extract more nuanced information from the dataset to better understand the duration of rides and the ridership demographics, we can create the following vizualizations:
