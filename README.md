@@ -1,6 +1,10 @@
 # Bike-Sharing Service Viability
 
+**Tableau Public Visualizations Deployment Link**: 
+
 ## Overview of the Analysis
+
+### Purpose
 The purpose of this analysis was to determine whether or not a bike-sharing service should be launched in Des Moines, Iowa. Specifically, bike-sharing data from New York's bike-sharing service was analyzed to determine if fungible demographics-related insights could be discovered to increase the probability of success of a similar prospective service in Des Moines.
 
 ## Results
