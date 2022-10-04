@@ -1,6 +1,6 @@
 # Bike-Sharing Service Viability
 
-**Tableau Public Visualizations Deployment Link**: 
+**Tableau Public Visualizations Deployment Link**: https://public.tableau.com/views/NYCCitiBike_16648740238590/NYCCitiBike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Overview of the Analysis
 
