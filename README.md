@@ -50,7 +50,7 @@ _____
 
 <img width="1147" alt="6_heatmap_user_gender" src="https://user-images.githubusercontent.com/80941606/193877779-93979457-cd12-4a55-ac12-688191ee8537.png">
 
-**Figure 4**: This is the breakdown of the user trips throughout the week categorized by gender.
+**Figure 4**: This heatmap showcases the user trips throughout the week categorized by gender.
 
 _____
 
@@ -73,7 +73,7 @@ _____
 
 <img width="1053" alt="7_bike_repairs" src="https://user-images.githubusercontent.com/80941606/193761599-943d518a-07c8-4716-be41-b71c39381ddf.png">
 
-**Figure 6**: 
+**Figure 6**: This heatmap showcases each bike's repair status.
 
 _____
 
