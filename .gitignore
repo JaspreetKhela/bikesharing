@@ -1,3 +1,9 @@
+.DS_Store
+
+# These files are too large to upload to GitHub
+201908-citibike-tripdata.csv
+new-201908-citibike-tripdata.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
